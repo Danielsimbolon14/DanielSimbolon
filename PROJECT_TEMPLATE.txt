@@ -1,0 +1,32 @@
+PROJECT TEMPLATE — COPY THIS BLOCK TO projects.js
+
+{
+  "id": "07",
+  "title": "Nama Project",
+  "category": "Kategori",
+  "role": "Peran Saya",
+  "description": "Jelaskan secara singkat apa project-nya dan apa yang kamu kerjakan.",
+  "summary": "Ringkasan singkat yang tampil di kartu project.",
+  "tags": ["PLC", "HMI", "MCC", "Wiring"],
+  "image": "assets/nama-foto-cover.jpg",
+  "gallery": [
+    "assets/nama-foto-cover.jpg",
+    "assets/nama-foto-02.jpg"
+  ]
+}
+
+CONTOH KATEGORI:
+- Electrical Panel
+- Motor Control
+- Power Distribution
+- PLC / Automation
+- HMI
+- Testing & Commissioning
+- Troubleshooting
+- Wastewater Treatment Plant
+
+CONTOH ROLE:
+- Electrical Engineer
+- Panel Builder & Wiring
+- Electrical Panel Builder
+- Automation / PLC Technician
